@@ -71,3 +71,18 @@ h2 {
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.f5 {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background:rgb(253, 194, 1);
+    color:white;
+    width: auto;
+    height: auto;
+    border:#FFF;
+    border-radius: 5px;
+    cursor:pointer;
+    font-size:28px;
+}
